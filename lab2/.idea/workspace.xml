@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0bd3f11-8061-4fcb-92bc-811ffbc09435" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/DebugPractice/DebugExercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/DebugPractice/DebugExercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DebugPractice/DebugExercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/DebugPractice/DebugExercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DebugPractice/DebugExercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/DebugPractice/DebugExercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intlist/IntList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Intlist/IntList.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2sEgWTc8d9z0ynIuVdfOcIhn3RQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.IntListTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/caiwenjie/Study/CS/CS61B/cs61b-logs/lab2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "应用程序.DebugExercise1.executor": "Debug",
+    "应用程序.DebugExercise2.executor": "Run",
+    "应用程序.DebugExercise3.executor": "Run"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="c0bd3f11-8061-4fcb-92bc-811ffbc09435" name="更改" comment="" />
+      <created>1738026179426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738026179426</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DebugPractice/DebugExercise1.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="newTotal &lt; 0" language="JAVA" />
+          <url>file://$PROJECT_DIR$/DebugPractice/DebugExercise3.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
