@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0bd3f11-8061-4fcb-92bc-811ffbc09435" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/DebugPractice/DebugExercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/DebugPractice/DebugExercise1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DebugPractice/DebugExercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/DebugPractice/DebugExercise2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DebugPractice/DebugExercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/DebugPractice/DebugExercise3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intlist/IntList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Intlist/IntList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,19 +23,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.IntListTest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/caiwenjie/Study/CS/CS61B/cs61b-logs/lab2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "应用程序.DebugExercise1.executor": "Debug",
-    "应用程序.DebugExercise2.executor": "Run",
-    "应用程序.DebugExercise3.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.IntListTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/caiwenjie/Study/CS/CS61B/cs61b-logs/lab2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;应用程序.DebugExercise1.executor&quot;: &quot;Debug&quot;,
+    &quot;应用程序.DebugExercise2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.DebugExercise3.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
