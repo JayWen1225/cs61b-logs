@@ -29,6 +29,17 @@ public class LinkedListDeque<Blorp>{
         addFirst(x);
     }
 
+    /** Create a copy of other */
+    public LinkedListDeque(LinkedListDeque<Blorp> other){
+        this();
+
+        IntNode current = other.sentinel.next;
+        while( current != other.sentinel){
+            this.addLast(current.item);
+            current = current.next;
+        }
+    }
+
     /** Add an item to the front of the list */
     public void addFirst(Blorp x){
         IntNode newNode = new IntNode(x);
